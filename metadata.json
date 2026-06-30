@@ -1,0 +1,8 @@
+{
+  "name": "GitHub Profile README Architect",
+  "description": "A premium, interactive generator and previewer to craft visually stunning, professional GitHub Profile READMEs with custom badges, dynamic stats, and AI writing assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
